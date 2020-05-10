@@ -1,0 +1,2 @@
+# R5T.Kerastini.Base
+An IVisualStudioProjectFileTemplate service definition base library for the Kerastini project.
