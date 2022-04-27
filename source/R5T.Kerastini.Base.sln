@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Gloucester.Types", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Ostersund", "..\..\R5T.Ostersund\source\R5T.Ostersund\R5T.Ostersund.csproj", "{25C8EF45-19B6-485D-B35A-E8F0D438210E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{25C8EF45-19B6-485D-B35A-E8F0D438210E}.Release|x64.Build.0 = Release|Any CPU
 		{25C8EF45-19B6-485D-B35A-E8F0D438210E}.Release|x86.ActiveCfg = Release|Any CPU
 		{25C8EF45-19B6-485D-B35A-E8F0D438210E}.Release|x86.Build.0 = Release|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Debug|x64.Build.0 = Debug|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Debug|x86.Build.0 = Debug|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Release|x64.ActiveCfg = Release|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Release|x64.Build.0 = Release|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Release|x86.ActiveCfg = Release|Any CPU
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +92,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DC9297E3-79B5-4C58-8110-79DBE36CE7BA} = {7CC122EF-2738-498F-BDFB-43F2AEA2F604}
 		{25C8EF45-19B6-485D-B35A-E8F0D438210E} = {7CC122EF-2738-498F-BDFB-43F2AEA2F604}
+		{62B14DD2-2C69-491A-8A8D-9C63DB63BB45} = {7CC122EF-2738-498F-BDFB-43F2AEA2F604}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D5EF3807-468F-4F69-A6FE-0646EE52B753}
